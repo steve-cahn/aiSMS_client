@@ -4,37 +4,23 @@ The front-end of the application is using the languages of: React.js, SCSS, Redu
 
 After entering your number, enter from the following phrases: (Be sure to enter a variation of the phrases below. Also, be sure to mispell, the web app can handle a bit of that.)
 
-Hi
-
-Whats Up
-
-See you later
-
-Goodbye
-
-Thanks
+- Hi
+- Whats Up
+- See you later
+- Goodbye
+- Thanks
 
 
 **Conversational:**
-
-Can you help me?
-
-I need help
-
-Help
-
-Help me
+- Can you help me?
+- I need help
+- Help
+- Help me
 	
 **Follow up:**
-
-I need help working out
-
-I want to go to the gym more often
-
-I want to do exercise
-
-Workout
-
-Working out
-
-Exercise
+- I need help working out
+- I want to go to the gym more often
+- I want to do exercise
+- Workout
+- Working out
+- Exercise
